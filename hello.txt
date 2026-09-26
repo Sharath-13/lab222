@@ -1,1 +1,5 @@
+
 "main branch edit"
+
+"feature branch conflicting edit in feature-branch"
+
